@@ -1,0 +1,1 @@
+C:\xampp\htdocs\Jotus\app/views/jobs/create.blade.php

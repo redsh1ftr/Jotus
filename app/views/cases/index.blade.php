@@ -1,0 +1,1 @@
+C:\xampp\htdocs\Jotus\app/views/cases/index.blade.php
