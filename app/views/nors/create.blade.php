@@ -1,0 +1,1 @@
+C:\xampp\htdocs\Jotus\app/views/nors/create.blade.php

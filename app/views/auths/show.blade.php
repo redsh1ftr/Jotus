@@ -1,0 +1,1 @@
+C:\xampp\htdocs\Jotus\app/views/auths/show.blade.php

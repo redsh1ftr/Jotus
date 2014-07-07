@@ -1,0 +1,1 @@
+C:\xampp\htdocs\Jotus\app/views/status_letters/show.blade.php
