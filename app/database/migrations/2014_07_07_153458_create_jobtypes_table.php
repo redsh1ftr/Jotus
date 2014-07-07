@@ -15,6 +15,8 @@ class CreateJobtypesTable extends Migration {
 		Schema::create('jobtypes', function(Blueprint $table)
 		{
 			$table->increments('id');
+			$table->string('type');
+			$table->string('auth_type');
 			$table->timestamps();
 		});
 	}
